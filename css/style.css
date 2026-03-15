@@ -760,3 +760,28 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+@media (max-width:768px){
+
+.cardValentine{
+    width:90%;
+    max-width:350px;
+    margin:auto;
+}
+
+.letterContent{
+    font-size:16px;
+    padding:15px;
+}
+}
+
+@media (max-width:768px){
+
+.finalHeart{
+    overflow:hidden;
+}
+
+.smallHeart{
+    font-size:14px;
+}
+}
