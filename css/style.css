@@ -715,3 +715,48 @@ body {
     border-radius: 10px;
     cursor: pointer; 
 }
+
+@media (max-width:768px) {
+
+    .paperHeart1 {
+        left: 20px;
+    }
+
+    .paperHeart2 {
+        left: 80px;
+    }
+
+    .paperHeart3 {
+        left: 140px;
+    }
+
+    .paperHeart4 {
+        left: 200px;
+    }
+
+    .paperHeart5 {
+        left: 260px;
+    }
+
+    .paperHeart6 {
+        left: 320px;
+    }
+
+}
+
+@media (max-width:768px) {
+
+    .boxTitle {
+        font-size: 40px;
+    }
+
+}
+
+body {
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
