@@ -144,3 +144,7 @@ function createHeart(){
 }
 
 setInterval(createHeart,200);
+
+document.addEventListener("click", function () {
+    document.getElementById("bgmusic").play();
+});
